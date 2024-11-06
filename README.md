@@ -2,6 +2,8 @@
 
 Framework Java para desenho de funções ou gráficos em 2D e 3D
 
+!['Aplicativo IPlot'](readme-images/iplot.png)
+
 Para rodar o aplicativo embutido de demonstração do framework, basta baixar o arquivo iplot-1.5.jar e rodar executando o seguinte comando:
 
 ```
